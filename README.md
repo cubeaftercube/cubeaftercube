@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello!
 
-<!--
-**cubeaftercube/cubeaftercube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**[Here you can my portfolio](cubeaftercube.github.io)**
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on co-op horror game!
+- 🌱 I’m currently learning unity and C# for switch in 2027.
+- 👯 I’m looking to collaborate on game jams and other projects :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**My contacts:**<br>
+**[Email](mailto:cubeaftercube@gmail.com)** &
+**[Discord server](https://discord.gg/BMw2JQqBA)**<br>
+
+**Discord Username: CubeAfterCube**<br>
