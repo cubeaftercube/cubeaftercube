@@ -1,6 +1,6 @@
 ## Hello!
 
-**[Here you can explore my portfolio and my projects](cubeaftercube.github.io)**
+**[Here you can explore my portfolio and my projects](https://cubeaftercube.github.io/)**
 
 - 🔭 I’m currently working on co-op horror game!
 - 🌱 I’m currently learning unity and C# for switch in 2027.
