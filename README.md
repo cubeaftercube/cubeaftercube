@@ -1,6 +1,6 @@
 ## Hello!
 
-**[Here you can explore my portfolio and my projects](https://cubeaftercube.github.io/)**
+**[Here you can explore my portfolio and my projects](https://cubeaftercube.github.io/en/)**
 
 - Currently working on co-op horror game!
 - Learning Unity, C# and Wwise
