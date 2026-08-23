@@ -9,7 +9,8 @@
 - Wwise Fundamentals Course | Wwise-101 (RU)
 - Wwise Unity Integration Course | Wwise-301 (RU)
 
-<img width="1894" height="775" alt="изображение" src="https://github.com/user-attachments/assets/d87da118-b2b0-498e-9503-370c19d12517" />
+<img width="631" height="258" alt="изображение" src="https://github.com/user-attachments/assets/d87da118-b2b0-498e-9503-370c19d12517" />
+<!-- original image dimensions: 1894 x 775. sized down: 631 x 258 -->
 
 ---
 
