@@ -2,9 +2,12 @@
 
 **[Here you can explore my portfolio and my projects](https://cubeaftercube.github.io/)**
 
-- 🔭 I’m currently working on co-op horror game!
-- 🌱 I’m currently learning unity and C# for switch in 2027.
-- 👯 I’m looking to collaborate on game jams and other projects :)
+- Currently working on co-op horror game!
+- Learning Unity, C# and Wwise
+
+## My Anki decks:
+- Wwise Fundamentals Course | Wwise-101 (RU)
+- Wwise Unity Integration Course | Wwise-301 (RU)
 
 ---
 
